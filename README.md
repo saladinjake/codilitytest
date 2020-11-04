@@ -5,3 +5,4 @@ https://app.codility.com/demo/results/trainingFRVPQH-YZK/ odd occurence
 https://app.codility.com/c/run/trainingUQKB94-HVJ/  frogjumper
 https://app.codility.com/demo/results/trainingYDPKEP-ZSA/ frogriverOne
 https://app.codility.com/c/run/trainingR9XQV7-NHB/ missingpermElement
+https://app.codility.com/demo/results/trainingPAFG2A-CDB/ maxcounters

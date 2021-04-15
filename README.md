@@ -1,5 +1,5 @@
 # codilitytest
-https://app.codility.com/demo/results/trainingRTUH5Y-296/ binary longest whatever
+https://app.codility.com/demo/results/trainingFYCS5G-YC7/ binary longest whatever
 https://app.codility.com/demo/results/training2ZENVH-XG7/  rotations
 https://app.codility.com/demo/results/trainingFRVPQH-YZK/ odd occurence
 https://app.codility.com/demo/results/trainingCAYR4M-SZK/  frogjumper
